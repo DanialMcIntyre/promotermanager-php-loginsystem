@@ -1,0 +1,20 @@
+[
+    {
+        "type": "File",
+        "name": "c:\\Users\\A\\Mojtaba\\Digitera\\login-system\\frontend\\src\\views\\pages\\authentication\\Login.vue",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\A\\Mojtaba\\Digitera\\login-system\\frontend\\src\\views\\pages\\authentication\\Login.vue",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "w2R1Y0xQjyagFUJA"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\A\\Mojtaba\\Digitera\\login-system\\frontend\\src\\@core\\auth\\jwt",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\A\\Mojtaba\\Digitera\\login-system\\frontend\\src\\@core\\auth\\jwt",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "2q9mFXBvpR1MI7wK"
+    }
+]
